@@ -21,8 +21,4 @@ This repository contains a Google Colab notebook for **predicting heart failure*
 - Detailed metrics and confusion matrix are in the notebook.  
 - A CSV summary is saved as `model_comparison_results.csv`.
 
-## ⚡ Installation & Usage
-```bash
-git clone https://github.com/YOUR_USERNAME/heart-failure-prediction.git
-cd heart-failure-prediction
-pip install -r requirements.txt
+
